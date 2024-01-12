@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/mrkuhne/mrkuhne/blob/main/banner.png" alt="banner picture" width="700" height="300""></img></div>
+<div align="center"><img src="https://github.com/mrkuhne/mrkuhne/blob/main/banner_picture.png" alt="banner picture" width="1200" height="330""></img></div>
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">Junior DevOps engineer and music producer eager to learn something new every day</h3>
 <p>I am a dedicated team player with a strong commitment to long-term growth and learning. I am passionate about optimizing software development processes and continuously improving system performance. My goal is to contribute to the success of my team while expanding my knowledge and skills in the dynamic field of DevOps.</p>
