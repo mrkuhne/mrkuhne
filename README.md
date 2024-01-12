@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">I am a junior DevOps engineer and music producer eager to learn something new every day</h3>
+<h3 align="center">Junior DevOps engineer and music producer eager to learn something new every day</h3>
+<p>I am a dedicated team player with a strong commitment to long-term growth and learning. I am passionate about optimizing software development processes and continuously improving system performance. My goal is to contribute to the success of my team while expanding my knowledge and skills in the dynamic field of DevOps.</p>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
