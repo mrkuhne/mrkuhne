@@ -1,4 +1,3 @@
-<div align="center"><img src="https://github.com/mrkuhne/mrkuhne/blob/main/banner_picture.png" alt="banner picture" width="1200" height="330""></img></div>
 <h1 align="center">Hello, I'm Daniel! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36" height="36"></img></h1>
 <h3 align="center">A Java developer, DevOps♾️ engineer and music producer eager to learn something new every day📚</h3>
 <p>I am a dedicated team player with a strong commitment to long-term growth and learning💡. I am passionate about optimizing software development processes, planning web application development lifecycles📝 and continuously improving system performance🚀. My goal is to contribute to the success of my team while expanding my knowledge and skills in the dynamic field of DevOps.🎯</p>
