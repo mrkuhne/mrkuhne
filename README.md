@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [React Projects](https://github.com/mrkuhne/React-Projects)
-  
--  🤝 My long-term project is [Mind Scholar](https://github.com/mrkuhne/MindScholar)
+- 🔭 I’m currently working on *Angular Projects*
 
-- 🌱 I'm honing my skills by learning **React & JavaScript**
-
-- 💬 Ask me about **Terraform || AWS || Java**
+- 🌱 I'm honing my skills by learning **Angular & JavaScript**
 
 - 💬 Ask me about **Ableton Live || Logic Pro**
 
